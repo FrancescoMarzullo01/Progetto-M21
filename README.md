@@ -1,6 +1,10 @@
 # Progetto-M21
 Sistema per la gestione di un punto di ritiro.
 
+## Documentazione progetto:
+https://github.com/IngSW-unipv/Progetto-M21/wiki
+
+
 ## Strumenti necessari:
 
  - [MySql](https://dev.mysql.com/downloads/mysql/): permette di creare database relazionali
